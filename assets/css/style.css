@@ -9,7 +9,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/*Top Menu Bar Styling Begins*/
+/*Top Menu Bar Styling*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -39,12 +39,12 @@ header nav ul li {
     margin-left: 25px;   
 }
 
-/*Webpage Top Menu Bar Rightside Text Color*/
+/*Top Menu Bar Rightside Text Color*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
-/*Top Menu Bar Styling Ends*/
+
 
 
 /*Background Image Styling*/
@@ -136,7 +136,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/*SEO, Online Management, Social Media Markting Styling Ends*/
+/*SEO, Online Management, Social Media Marketing Styling Ends*/
 
 /* Benefits Right Sidebar Styling Begins*/
 .benefits {
