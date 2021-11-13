@@ -1,7 +1,7 @@
 # 01-code-refractor
 01 HTML, CSS, and Git: Code Refractor HW
 
-## Git Page
+## Webpage Link
 
 ```
 https://loselby.github.io/01-code-refractor/
